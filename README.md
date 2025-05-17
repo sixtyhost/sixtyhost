@@ -1,4 +1,4 @@
-<h1>Hi, I'm Howard! <br/><a href="https://github.com/sixtyhost">Programmer</a>, <a href="https://sixtyhost.com">Full Stack Developer</a>, W
+<h1>Hi, I'm Howard! <br/><a href="https://github.com/sixtyhost">Programmer</a>, <a href="https://sixtyhost.com">Full Stack Developer</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
